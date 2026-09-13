@@ -1,0 +1,230 @@
+# Comprehensive .gitignore for Python, Node.js, Flutter Projects
+
+# =========================
+# PYTHON
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.env
+.env.local
+*.pyo
+*.pyd
+*.so
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+.ipynb_checkpoints
+
+# =========================
+# NODE.JS / NPM
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+.npm
+.eslintcache
+.node_repl_history
+*.tgz
+.yarn-integrity
+.env.local
+.env.*.local
+dist/
+build/
+
+# =========================
+# FLUTTER / DART
+# =========================
+.DS_Store
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+flutter_*.png
+linear_gradient_*.png
+radial_gradient_*.png
+sweep_gradient_*.png
+cover/
+coverage/
+lib/generated_plugin_registrant.dart
+.flutter-plugins-dependencies
+windows/flutter/generated_plugins.cmake
+windows/flutter/generated_plugin_registrant.cmake
+macos/Flutter/Flutter-Release.xcconfig
+macos/Flutter/GeneratedPluginRegistrant.swift
+.dart_tool/
+
+# iOS
+ios/.symlinks/
+ios/*.mode1v3
+ios/*.mode2v3
+ios/*.moved-aside
+ios/*.pbxuser
+ios/*.perspectivev3
+ios/**/*sync/
+ios/**/.sconsign.dblite
+ios/**/.tags*
+ios/**/.vagrant/
+ios/**/DerivedData/
+ios/**/Icon?
+ios/**/Pods/
+ios/**/*.junk
+ios/**/*.swp
+ios/**/*~.nib
+ios/**/.env
+
+# Android
+android/local.properties
+android/.gradle/
+android/captures/
+android/gradlew
+android/gradlew.bat
+android/gradle-wrapper.jar
+android/.idea/
+android/gradle.properties
+android/key.properties
+android/**/GeneratedPluginRegistrant.java
+
+# =========================
+# IDE / EDITOR
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.history
+.VSCodeCounter/
+.vscode-test
+.cache/
+.parcel-cache
+.next
+out/
+
+# =========================
+# OS
+# =========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.log
+logs/
+*.swp
+*.swo
+.#*
+*~
+*.tmp
+
+# =========================
+# DATABASES
+# =========================
+*.db
+*.sqlite
+*.sqlite3
+*.mdb
+*.accdb
+
+# =========================
+# API KEYS & SECRETS
+# =========================
+.env
+.env.local
+.env.*.local
+secrets/
+credentials/
+api_keys/
+.firebase/
+google-services.json
+GoogleService-Info.plist
+
+# =========================
+# BUILD & OUTPUT
+# =========================
+build/
+dist/
+release/
+target/
+out/
+*.apk
+*.aab
+*.ipa
+*.app
+*.exe
+*.dll
+.gradle/
+
+# =========================
+# TEMPORARY FILES
+# =========================
+*.tmp
+*.bak
+*.backup
+*.orig
+*.temp
+*~
+.~*
+
+# =========================
+# MACHINE LEARNING
+# =========================
+*.pt
+*.pth
+*.h5
+*.model
+*.pkl
+*.joblib
+*.onnx
+models/trained/
+checkpoints/
+runs/
+wandb/
