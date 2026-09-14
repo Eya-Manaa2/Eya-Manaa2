@@ -1,147 +1,204 @@
-<!-- Animated Header -->
-<div align="center">
-  
-# 👋 Hey, I'm Eya Manaa
+# Eya Manaa
 
-### Full-Stack Developer | Mobile & Web Enthusiast | AI/ML Explorer
+**Telecommunications Engineering Student | AI Researcher**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Eya-Manaa2&color=blue)
-
-</div>
+École Supérieure des Communications de Tunis (Sup'Com) | Université de Carthage
 
 ---
 
-## 🚀 About Me
+## Research Profile
 
-I'm a passionate **Full-Stack Developer** from Tunisia with a strong interest in building scalable applications and solving real-world problems through technology. I specialize in:
-
-- 📱 **Mobile Development** - Flutter/Dart for cross-platform applications
-- 🌐 **Web Development** - JavaScript, React, and modern web technologies
-- 🤖 **AI/ML** - Computer Vision, Deep Learning, and Data Science
-- 🗄️ **Backend** - Python, Node.js, MongoDB, Firebase
+Telecommunications Engineering student at Sup'Com with strong research orientation in **Computer Vision, Deep Learning, and Agentic AI**. Practical experience in designing, experimenting, and evaluating computer vision models for image detection, classification, and segmentation.
 
 ---
 
-## 💼 Featured Projects
+## Research Interests
 
-### 🚗 **CarShare** 
-**Flutter | Firebase | Mobile App**
-
-A modern car-sharing mobile application built with Flutter that connects users and facilitates vehicle sharing.
-
-- ✨ Cross-platform mobile experience
-- 🔐 Firebase authentication & real-time database
-- 📍 Location-based services
-- 💳 Seamless payment integration
-
-[View Project](https://github.com/Eya-Manaa2/CarShare) | [Technologies: Dart, Flutter, Firebase]
+- **Computer Vision**: Hand detection, gesture recognition, image segmentation, real-time inference, Edge AI
+- **Deep Learning**: YOLO architectures, neural network design, model optimization, data augmentation
+- **Agentic AI**: LLMs, Retrieval-Augmented Generation (RAG), autonomous agent systems
+- **Generative AI**: NLP, embeddings, vector databases, prompt engineering
+- **Real-Time AI Systems**: Mobile deployment, TensorFlow Lite, performance optimization
 
 ---
 
-### 🎓 **SCHOOLA-TAAWON**
-**JavaScript | React | Node.js | MongoDB**
+## Featured Projects
 
-A comprehensive educational platform designed to facilitate collaboration between schools and students.
+### P2M - Tunisian Sign Language Gesture Recognition
+**Computer Vision, Deep Learning & Edge AI**
 
-- 👨‍🎓 Student & Teacher Management
-- 📚 Course Management System
-- 🔄 Real-time Notifications
-- 📊 Analytics Dashboard
+Research project for recognizing 26 words from Tunisian Sign Language with real-time mobile deployment.
 
-[View Project](https://github.com/Eya-Manaa2/SCHOOLA-TAAWON-FINAL) | [Technologies: JavaScript, React, Node.js, MongoDB]
+**Key Results**:
+- 98.29% Top-1 accuracy, 99.70% Top-5 accuracy
+- ~18.6ms inference latency
+- 3,338 images proprietary dataset across 26 classes
+- YOLOv8m cascade architecture for detection and classification
 
----
+**Technical Stack**: Python, YOLOv8, TensorFlow Lite, Flutter, OpenCV
 
-### 🎯 **P2M - Pose to Movement**
-**Python | TensorFlow | YOLO | Computer Vision**
-
-An advanced AI project focused on pose detection and movement recognition using deep learning models.
-
-- 🧠 CNN-based image classification
-- 🎬 Real-time webcam recognition
-- 📊 YOLO object detection implementation
-- 🔬 Advanced data preprocessing & augmentation
-
-[View Project](https://github.com/Eya-Manaa2/P2M) | [Technologies: Python, TensorFlow, YOLO, OpenCV]
+[View Project](https://github.com/Eya-Manaa2/P2M-Pose-to-Movement)
 
 ---
 
-## 🛠️ Tech Stack
+### Course-AI-Agent - Interactive Document Analysis
+**Agentic AI, NLP & RAG**
 
-<div align="center">
+Retrieval-Augmented Generation pipeline for technical document analysis and querying.
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+**Key Features**:
+- Complete RAG pipeline with PDF extraction and segmentation
+- HuggingFace embeddings and ChromaDB vector search
+- Local LLM integration via Ollama (Mistral/phi3)
+- Interactive Streamlit interface with multi-format export
 
-### Mobile & Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Technical Stack**: Python, LangChain, Ollama, ChromaDB, HuggingFace, Streamlit
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
+[View Project](https://github.com/Eya-Manaa2/Course-AI-Agent)
 
 ---
 
-## 📊 GitHub Stats
+### V2V Channel Experimental Modeling
+**Statistical Analysis & Channel Modeling**
 
-<div align="center">
+Statistical study of multipath propagation in urban and highway V2V scenarios.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eya-Manaa2&show_icons=true&theme=radical&hide_border=true)
+**Key Contributions**:
+- Statistical analysis of Doppler, coherence time, and sampling frequency
+- Rayleigh and Rice channel modeling and comparison
+- Numerical optimization with Python and SciPy
+- BPSK transmission simulation over AWGN, Rayleigh, and Rice channels
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eya-Manaa2&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🎯 What I'm Focused On
-
-- 🔨 Building production-ready applications
-- 📚 Continuous learning and skill development
-- 🤝 Contributing to open-source projects
-- 🎓 Exploring advanced AI/ML concepts
-- 🌍 Creating solutions that impact communities
+**Technical Stack**: Python, SciPy, NumPy, Statistical Analysis
 
 ---
 
-## 💬 Let's Connect
+## Engineering Experience
 
-<div align="center">
+### ROBOCTL PRO - Multi-Robot Simulation Platform
+**Engineer Internship - Enova Robotics**
 
-I'm always interested in discussing new projects, creative ideas, and opportunities!
+Web platform for simulation, supervision, and control of collaborative robots JAKA Zu5 and UR5.
 
-📧 [Email Me](mailto:your-email@example.com) • 
-💼 [LinkedIn](https://linkedin.com/in/your-profile) • 
-🐦 [Twitter](https://twitter.com/your-handle) • 
-🌐 [Portfolio](https://your-portfolio.com)
+**Key Contributions**:
+- Distributed architecture with React, TypeScript, Node.js, Express, Socket.IO
+- 3D visualization with Three.js / React Three Fiber
+- Real-time command and telemetry exchanges
+- TCP/IP integration with real robots and URSim environment
 
-</div>
+**Technical Stack**: React, TypeScript, Node.js, Express, Socket.IO, Three.js
 
 ---
 
-<div align="center">
+### CarShare - Cross-Platform Car Sharing
+**Mobile Application**
 
-### ⭐ If you find my projects interesting, please consider giving them a star!
+Car-sharing mobile application with real-time tracking and secure payment integration.
 
-**Made with ❤️ by Eya Manaa**
+**Technical Stack**: Flutter, Firebase, Google Maps API, Stripe
 
-</div>
+[View Project](https://github.com/Eya-Manaa2/CarShare)
+
+---
+
+### SCHOOLA-TAAWON - Educational Collaboration Platform
+**Web Application**
+
+School management system for teacher-student-parent communication and collaboration.
+
+**Technical Stack**: React, Node.js, MongoDB, Socket.IO
+
+[View Project](https://github.com/Eya-Manaa2/SCHOOLA-TAAWON)
+
+---
+
+## Technical Skills
+
+### Computer Vision & Deep Learning
+- **Computer Vision**: YOLOv8, image processing, hand detection, region of interest extraction, classification, image segmentation, real-time inference, Edge AI
+- **Deep Learning**: Neural network design, model optimization, data augmentation strategies, transfer learning, model evaluation
+- **Machine Learning**: Model analysis and evaluation, detection and classification, statistical modeling
+
+### Agentic AI & Generative AI
+- **Agentic AI**: LLMs, autonomous agent systems, prompt engineering, agent orchestration
+- **Generative AI**: NLP, Retrieval-Augmented Generation (RAG), embeddings, vector databases
+- **Frameworks**: HuggingFace, Ollama, ChromaDB, LangChain
+
+### Programming Languages
+- Python (primary), C/C++, Java, JavaScript, TypeScript
+
+### Web & Mobile Development
+- React, Node.js, Express, Flutter, React Native, Streamlit
+
+### Robotics & 3D
+- JAKA Zu5, UR5, URSim, Three.js, React Three Fiber
+
+### Networks & Systems
+- TCP/IP, Socket.IO, Linux, Bash, Git, GitHub
+
+### Scientific Methods
+- Statistical modeling, experimentation, data analysis, model fitting, experimental validation
+
+---
+
+## Education
+
+### Diplôme d'Ingénieur en Télécommunications
+**École Supérieure des Communications de Tunis (Sup'Com)** | 2024 – 2027
+- Université de Carthage, Tunisia
+
+### Cycle Préparatoire – Physique-Chimie
+**École Supérieure des Sciences et Technologies de Hammam Sousse (ESSTHS)** | 2022 – 2024
+- Tunisia
+
+---
+
+## Awards & Engagement
+
+- **3rd Place** – National Hackathon: SOS App
+- **7th Place** – Entrepreneurship Challenge: SpeakApp Mobile
+- **Executive Board Member** – GDSC Sup'Com, 2025–2026
+- **ASEST** – Participation in educational and awareness activities
+
+---
+
+## Certifications
+
+- **CCNA 1–3** (Cisco)
+- **AWS Cloud Fundamentals**
+- **AI Fundamentals & Agentic AI** (DataCamp)
+- **Machine Learning & Deep Learning** (DataCamp)
+
+---
+
+## Languages
+
+- **Arabic**: Native
+- **French**: B2
+- **English**: B2
+
+---
+
+## Contact Information
+
+- **Email**: eyamanaa3@gmail.com
+- **Phone**: +216 54 292 443
+- **Location**: Tunisia
+- **GitHub**: [github.com/Eya-Manaa2](https://github.com/Eya-Manaa2)
+- **LinkedIn**: [linkedin.com/in/eya-manaa](https://linkedin.com/in/eya-manaa)
+- **Research Portfolio**: [Eya-Manaa-Portfolio](https://github.com/Eya-Manaa2/Eya-Manaa-Portfolio)
+
+---
+
+## Academic Collaboration
+
+Open to research collaborations in:
+- Computer Vision and Deep Learning applications
+- Real-time AI systems and Edge AI deployment
+- Generative AI and LLM applications
+- Human-AI interaction systems
+- Robotics and intelligent systems
+
+---
+
+*Last Updated: September 2026*
