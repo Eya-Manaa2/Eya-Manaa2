@@ -1,8 +1,15 @@
+<div align="center">
+
 # Eya Manaa
 
 **Telecommunications Engineering Student | AI Researcher**
 
 École Supérieure des Communications de Tunis (Sup'Com) | Université de Carthage
+
+![Profile Views](https://komarev.com/ghpvc/?username=Eya-Manaa2&style=flat-square&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/Eya-Manaa2?style=flat-square&label=Followers&maxAge=2592000)
+
+</div>
 
 ---
 
@@ -24,7 +31,7 @@ Telecommunications Engineering student at Sup'Com with strong research orientati
 
 ## Featured Projects
 
-### P2M - Tunisian Sign Language Gesture Recognition
+### 🧠 P2M - Tunisian Sign Language Gesture Recognition
 **Computer Vision, Deep Learning & Edge AI**
 
 Research project for recognizing 26 words from Tunisian Sign Language with real-time mobile deployment.
@@ -37,11 +44,11 @@ Research project for recognizing 26 words from Tunisian Sign Language with real-
 
 **Technical Stack**: Python, YOLOv8, TensorFlow Lite, Flutter, OpenCV
 
-[View Project](https://github.com/Eya-Manaa2/P2M-Pose-to-Movement)
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://github.com/Eya-Manaa2/P2M-Pose-to-Movement)
 
 ---
 
-### Course-AI-Agent - Interactive Document Analysis
+### 🤖 Course-AI-Agent - Interactive Document Analysis
 **Agentic AI, NLP & RAG**
 
 Retrieval-Augmented Generation pipeline for technical document analysis and querying.
@@ -54,11 +61,11 @@ Retrieval-Augmented Generation pipeline for technical document analysis and quer
 
 **Technical Stack**: Python, LangChain, Ollama, ChromaDB, HuggingFace, Streamlit
 
-[View Project](https://github.com/Eya-Manaa2/Course-AI-Agent)
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://github.com/Eya-Manaa2/Course-AI-Agent)
 
 ---
 
-### V2V Channel Experimental Modeling
+### 📊 V2V Channel Experimental Modeling
 **Statistical Analysis & Channel Modeling**
 
 Statistical study of multipath propagation in urban and highway V2V scenarios.
@@ -75,7 +82,7 @@ Statistical study of multipath propagation in urban and highway V2V scenarios.
 
 ## Engineering Experience
 
-### ROBOCTL PRO - Multi-Robot Simulation Platform
+### 🤖 ROBOCTL PRO - Multi-Robot Simulation Platform
 **Engineer Internship - Enova Robotics**
 
 Web platform for simulation, supervision, and control of collaborative robots JAKA Zu5 and UR5.
@@ -90,25 +97,25 @@ Web platform for simulation, supervision, and control of collaborative robots JA
 
 ---
 
-### CarShare - Cross-Platform Car Sharing
+### 🚗 CarShare - Cross-Platform Car Sharing
 **Mobile Application**
 
 Car-sharing mobile application with real-time tracking and secure payment integration.
 
 **Technical Stack**: Flutter, Firebase, Google Maps API, Stripe
 
-[View Project](https://github.com/Eya-Manaa2/CarShare)
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://github.com/Eya-Manaa2/CarShare)
 
 ---
 
-### SCHOOLA-TAAWON - Educational Collaboration Platform
+### 🎓 SCHOOLA-TAAWON - Educational Collaboration Platform
 **Web Application**
 
 School management system for teacher-student-parent communication and collaboration.
 
 **Technical Stack**: React, Node.js, MongoDB, Socket.IO
 
-[View Project](https://github.com/Eya-Manaa2/SCHOOLA-TAAWON)
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://github.com/Eya-Manaa2/SCHOOLA-TAAWON)
 
 ---
 
@@ -141,6 +148,63 @@ School management system for teacher-student-parent communication and collaborat
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+![Eya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eya-Manaa2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eya-Manaa2&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-streak-stats.herokuapp.com/?user=Eya-Manaa2&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Computer Vision & Deep Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black)
+
+### Agentic AI & Generative AI
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-7C52FF?style=for-the-badge&logo=chromadb&logoColor=white)
+
+### Web & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+
+[![Eya's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Eya-Manaa2&theme=react-dark)](https://github.com/Eya-Manaa2/github-readme-activity-graph)
+
+</div>
+
+---
+
 ## Education
 
 ### Diplôme d'Ingénieur en Télécommunications
@@ -155,10 +219,16 @@ School management system for teacher-student-parent communication and collaborat
 
 ## Awards & Engagement
 
-- **3rd Place** – National Hackathon: SOS App
-- **7th Place** – Entrepreneurship Challenge: SpeakApp Mobile
-- **Executive Board Member** – GDSC Sup'Com, 2025–2026
-- **ASEST** – Participation in educational and awareness activities
+<div align="center">
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Eya-Manaa2&theme=radical&no-frame=true&margin-w=8)
+
+</div>
+
+- 🏆 **3rd Place** – National Hackathon: SOS App
+- 🏆 **7th Place** – Entrepreneurship Challenge: SpeakApp Mobile
+- 👥 **Executive Board Member** – GDSC Sup'Com, 2025–2026
+- 🎓 **ASEST** – Participation in educational and awareness activities
 
 ---
 
@@ -181,12 +251,16 @@ School management system for teacher-student-parent communication and collaborat
 
 ## Contact Information
 
-- **Email**: eyamanaa3@gmail.com
-- **Phone**: +216 54 292 443
-- **Location**: Tunisia
-- **GitHub**: [github.com/Eya-Manaa2](https://github.com/Eya-Manaa2)
-- **LinkedIn**: [linkedin.com/in/eya-manaa](https://linkedin.com/in/eya-manaa)
-- **Research Portfolio**: [Eya-Manaa-Portfolio](https://github.com/Eya-Manaa2/Eya-Manaa-Portfolio)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-eyamanaa3@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:eyamanaa3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eya-manaa)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Eya-Manaa2)
+[![Research Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat-square&logo=github&logoColor=white)](https://github.com/Eya-Manaa2/Eya-Manaa-Portfolio)
+
+📍 Tunisia | 📱 +216 54 292 443
+
+</div>
 
 ---
 
@@ -198,6 +272,18 @@ Open to research collaborations in:
 - Generative AI and LLM applications
 - Human-AI interaction systems
 - Robotics and intelligent systems
+
+---
+
+<div align="center">
+
+### ⭐ If you find my projects interesting, please consider giving them a star!
+
+![GitHub stars](https://img.shields.io/github/stars/Eya-Manaa2?style=social)
+
+**Made with ❤️ by Eya Manaa**
+
+</div>
 
 ---
 
