@@ -253,7 +253,8 @@ School management system for teacher-student-parent communication and collaborat
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-eyamanaa3@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:eyamanaa3@gmail.com)
+[![Email Personal](https://img.shields.io/badge/Email-eyamanaa3@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:eyamanaa3@gmail.com)
+[![Email Sup'Com](https://img.shields.io/badge/Email-eya.manaa@supcom.tn-red?style=flat-square&logo=gmail&logoColor=white)](mailto:eya.manaa@supcom.tn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eya-manaa)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Eya-Manaa2)
 [![Research Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat-square&logo=github&logoColor=white)](https://github.com/Eya-Manaa2/Eya-Manaa-Portfolio)
