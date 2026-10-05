@@ -2,7 +2,7 @@
 
 # Eya Manaa
 
-**Telecommunications Engineering Student | AI Researcher**
+**AI Researcher | Computer Vision, Generative AI & Agentic AI**
 
 École Supérieure des Communications de Tunis (Sup'Com) | Université de Carthage
 
@@ -15,16 +15,18 @@
 
 ## Research Profile
 
-Telecommunications Engineering student at Sup'Com with strong research orientation in **Computer Vision, Deep Learning, and Agentic AI**. Practical experience in designing, experimenting, and evaluating computer vision models for image detection, classification, and segmentation.
+Telecommunications Engineering student focused on applied AI, with hands-on work across **Computer Vision, Deep Learning, and LLM-powered applications**. Built and evaluated vision models, including a Tunisian Sign Language recognition system reaching **98.29% top-1 accuracy** with **~18.6 ms inference**, and developed RAG- and voice-based assistants for education and civic services.
+
+**Seeking opportunities in**: AI/ML, Computer Vision, Generative AI, and Agentic AI.
 
 ---
 
-## Research Interests
+## AI Research Interests
 
-- **Computer Vision**: Hand detection, gesture recognition, image segmentation, real-time inference, Edge AI
-- **Deep Learning**: YOLO architectures, neural network design, model optimization, data augmentation
 - **Agentic AI**: LLMs, Retrieval-Augmented Generation (RAG), autonomous agent systems
 - **Generative AI**: NLP, embeddings, vector databases, prompt engineering
+- **Computer Vision**: Hand detection, gesture recognition, image segmentation, real-time inference, Edge AI
+- **Deep Learning**: YOLO architectures, neural network design, model optimization, data augmentation
 - **Real-Time AI Systems**: Mobile deployment, TensorFlow Lite, performance optimization
 
 ---
@@ -62,21 +64,6 @@ Retrieval-Augmented Generation pipeline for technical document analysis and quer
 **Technical Stack**: Python, LangChain, Ollama, ChromaDB, HuggingFace, Streamlit
 
 [![View Project](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://github.com/Eya-Manaa2/Course-AI-Agent)
-
----
-
-### 📊 V2V Channel Experimental Modeling
-**Statistical Analysis & Channel Modeling**
-
-Statistical study of multipath propagation in urban and highway V2V scenarios.
-
-**Key Contributions**:
-- Statistical analysis of Doppler, coherence time, and sampling frequency
-- Rayleigh and Rice channel modeling and comparison
-- Numerical optimization with Python and SciPy
-- BPSK transmission simulation over AWGN, Rayleigh, and Rice channels
-
-**Technical Stack**: Python, SciPy, NumPy, Statistical Analysis
 
 ---
 
@@ -148,6 +135,21 @@ Mini IaaS platform that provisions and configures VMware vSphere virtual machine
 
 ---
 
+### 📊 V2V Channel Experimental Modeling
+**Statistical Analysis & Channel Modeling**
+
+Statistical study of multipath propagation in urban and highway V2V scenarios.
+
+**Key Contributions**:
+- Statistical analysis of Doppler, coherence time, and sampling frequency
+- Rayleigh and Rice channel modeling and comparison
+- Numerical optimization with Python and SciPy
+- BPSK transmission simulation over AWGN, Rayleigh, and Rice channels
+
+**Technical Stack**: Python, SciPy, NumPy, Statistical Analysis
+
+---
+
 ## Engineering Experience
 
 ### 🤖 ROBOCTL PRO - Multi-Robot Simulation Platform
@@ -189,15 +191,15 @@ School management system for teacher-student-parent communication and collaborat
 
 ## Technical Skills
 
-### Computer Vision & Deep Learning
-- **Computer Vision**: YOLOv8, image processing, hand detection, region of interest extraction, classification, image segmentation, real-time inference, Edge AI
-- **Deep Learning**: Neural network design, model optimization, data augmentation strategies, transfer learning, model evaluation
-- **Machine Learning**: Model analysis and evaluation, detection and classification, statistical modeling
-
 ### Agentic AI & Generative AI
 - **Agentic AI**: LLMs, autonomous agent systems, prompt engineering, agent orchestration
 - **Generative AI**: NLP, Retrieval-Augmented Generation (RAG), embeddings, vector databases
 - **Frameworks**: HuggingFace, Ollama, ChromaDB, LangChain
+
+### Computer Vision & Deep Learning
+- **Computer Vision**: YOLOv8, image processing, hand detection, region of interest extraction, classification, image segmentation, real-time inference, Edge AI
+- **Deep Learning**: Neural network design, model optimization, data augmentation strategies, transfer learning, model evaluation
+- **Machine Learning**: Model analysis and evaluation, detection and classification, statistical modeling
 
 ### Programming Languages
 - Python (primary), C/C++, Java, JavaScript, TypeScript
