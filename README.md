@@ -114,6 +114,40 @@ Study workspace for organizing subjects, notes, files, favorites, and study task
 
 ---
 
+### 📡 Net-Platform - Real-Time Telecom Data Processing
+**Data Engineering & Network Analytics**
+
+Real-time platform for ingesting, processing, analyzing, and visualizing telecom network events.
+
+**Key Features**:
+- Kafka-based event streaming with a Java processing service
+- Historical batch analytics and telecom KPIs with Spark/PySpark
+- Elasticsearch storage and Kibana dashboards
+- Docker-based local infrastructure and performance benchmarks
+
+**Technical Stack**: Python, Java, Apache Kafka, Apache Spark, Elasticsearch, Kibana, Docker
+
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://github.com/Eya-Manaa2/Net-Platform)
+
+---
+
+### ☁️ IaaS Automation - VMware Infrastructure Platform
+**Infrastructure as Code & DevOps**
+
+Mini IaaS platform that provisions and configures VMware vSphere virtual machines from declarative YAML requests.
+
+**Key Features**:
+- VM provisioning and network configuration with Terraform
+- Automated system and service configuration with Ansible
+- End-to-end deployment validation and infrastructure documentation
+- CI checks for infrastructure, playbooks, scripts, and configuration
+
+**Technical Stack**: Terraform, Ansible, VMware vSphere, Bash, GitHub Actions
+
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://github.com/Eya-Manaa2/Automatisation-plateforme-laaS)
+
+---
+
 ## Engineering Experience
 
 ### 🤖 ROBOCTL PRO - Multi-Robot Simulation Platform
