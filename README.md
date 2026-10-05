@@ -80,6 +80,40 @@ Statistical study of multipath propagation in urban and highway V2V scenarios.
 
 ---
 
+### 🌍 DALIL - Inclusive Social Services Guide
+**Civic Tech, Accessibility & AI**
+
+Digital guide helping Tunisian families discover relevant public services through a voice assistant, personalized guidance, an office map, and an offline USSD mode.
+
+**Key Features**:
+- Voice interaction with Tunisian Darija support
+- Personalized service recommendations for families
+- Interactive map of nearby offices
+- Offline access through USSD-style navigation
+
+**Technical Stack**: Next.js, TypeScript, React, Leaflet, Groq, AI SDK
+
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://github.com/Eya-Manaa2/DALIL)
+
+---
+
+### 📚 Study-Nest - Cross-Platform Study Organizer
+**EdTech, AI & Mobile Development**
+
+Study workspace for organizing subjects, notes, files, favorites, and study tasks, with an AI assistant across web and mobile.
+
+**Key Features**:
+- Subject and document organization with favorites and notes
+- AI-powered study assistance
+- Flutter mobile app with Firebase authentication and cloud storage
+- Web app built with Next.js and React
+
+**Technical Stack**: Next.js, React, TypeScript, Flutter, Firebase, Groq
+
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://github.com/Eya-Manaa2/Study-Nest)
+
+---
+
 ## Engineering Experience
 
 ### 🤖 ROBOCTL PRO - Multi-Robot Simulation Platform
@@ -288,4 +322,4 @@ Open to research collaborations in:
 
 ---
 
-*Last Updated: September 2026*
+*Last Updated: October 2026*
