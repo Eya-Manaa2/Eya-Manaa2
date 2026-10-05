@@ -2,7 +2,7 @@
 
 # Eya Manaa
 
-**AI Researcher | Computer Vision, Generative AI & Agentic AI**
+**AI Enthusiast | Computer Vision, Generative AI & Agentic AI**
 
 École Supérieure des Communications de Tunis (Sup'Com) | Université de Carthage
 
@@ -13,7 +13,7 @@
 
 ---
 
-## Research Profile
+## Profile
 
 Telecommunications Engineering student focused on applied AI, with hands-on work across **Computer Vision, Deep Learning, and LLM-powered applications**. Built and evaluated vision models, including a Tunisian Sign Language recognition system reaching **98.29% top-1 accuracy** with **~18.6 ms inference**, and developed RAG- and voice-based assistants for education and civic services.
 
@@ -21,7 +21,7 @@ Telecommunications Engineering student focused on applied AI, with hands-on work
 
 ---
 
-## AI Research Interests
+## AI Interests
 
 - **Agentic AI**: LLMs, Retrieval-Augmented Generation (RAG), autonomous agent systems
 - **Generative AI**: NLP, embeddings, vector databases, prompt engineering
