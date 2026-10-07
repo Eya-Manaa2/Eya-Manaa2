@@ -84,7 +84,43 @@ Digital guide helping Tunisian families discover relevant public services throug
 
 ---
 
-### 📚 Study-Nest - Cross-Platform Study Organizer
+### � Atrium Sillage - Agentic AI Detective Game
+**Agentic AI, Game Development & Interactive Storytelling**
+
+Interactive murder mystery game where AI agents actively play a role in the story through tool-calling and state management.
+
+**Key Features**:
+- NPC interrogation agent with tools (revealClue, setComposure, leaveRoom)
+- Director agent for ambient storytelling and suspect movement
+- State-aware agents that track discovered clues and stress levels
+- Isometric room view inspired by Habbo Hotel
+- Graceful degradation with fallback case system
+
+**Technical Stack**: Next.js 15, React, Vercel AI SDK, Google Gemini, ToolLoopAgent, TypeScript
+
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://github.com/Eya-Manaa2/Atrium-Sillage)
+
+---
+
+### 🛡️ INSURANCE - AI-Powered Underwriting System
+**Agentic AI, RAG & Enterprise Applications**
+
+Insurance underwriting platform with AI agents for automated case processing, document analysis, and risk assessment.
+
+**Key Features**:
+- Multi-database support (PostgreSQL, MongoDB, SQLite)
+- RAG-powered knowledge base for policy documents
+- AI agents for automated underwriting decisions
+- Document processing and compliance tracking
+- Real-time dashboard with KPIs and metrics
+
+**Technical Stack**: Next.js 15, TypeScript, RAG, Vector Databases, Docker, CI/CD
+
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://github.com/Eya-Manaa2/INSURANCE)
+
+---
+
+### �📚 Study-Nest - Cross-Platform Study Organizer
 **EdTech, AI & Mobile Development**
 
 Study workspace for organizing subjects, notes, files, favorites, and study tasks, with an AI assistant across web and mobile.
